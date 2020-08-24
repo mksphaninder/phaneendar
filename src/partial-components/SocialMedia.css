@@ -1,0 +1,13 @@
+.socialMedia {
+  margin-top: 50px;
+  border: 1px solid white;
+  border-radius: 25px;
+  width: fit-content;
+  background-color: white;
+  color: black;
+  padding: 5px;
+}
+.socialMedia a {
+  color: black;
+  padding: 0 10px;
+}

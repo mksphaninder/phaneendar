@@ -1,0 +1,125 @@
+{
+  "name": "Phaneendar",
+  "about": "Dummy description",
+  "projects": [
+    {
+      "id": 0,
+      "title": "xxxx",
+      "role": "Senior Software Engineer",
+      "from": "March 2020",
+      "to": "Present",
+      "description": "Designer Brands Inc. is an American company that sells designer and name brand shoes and fashion accessories. Developed and maintained various services that serve DSW’s Loyalty program.",
+      "content": [
+        "Designed and developed a Java Spring Boot micro-service to create a lottery-based system to award points for qualifying transactions.",
+        "Developed enhancements for the React.js POS Loyalty application.",
+        "Extensive experience in developing applications using various Agile methodologies.",
+        "Involved in developing UI using Spring MVC framework, JSP, JSTL, HTML5, CSS, JavaScript, jQuery,and React.js.",
+        "Implemented State management between various Components using React Context API Hooks.",
+        "Developed the Components using React.js using hooks and react functional components.",
+        "Experienced in Core Java concepts such as OOP Concepts, Collections Framework, and Exception Handling, I/O System, Multi-Threading, JDBC, Generics.",
+        "Used Java8 features in developing the code like Lambda expressions, creating resource classes, fetching documents from database.",
+        "Used design patterns like Singleton, Data Access Objects, Factory and MVC patterns.",
+        "Tested and production support of core java based multithreading ETL tool for distributed loading XML data into Oracle database using JPA/Hibernate.",
+        "Designed and developed back-end web-services written using the Spring framework, Restful web-services to work with the front-end components written in React.js to implement a web application which interacts with the other in-store components to carry on the daily activities inside an enterprise store.",
+        "Developed microservices with Spring and tested the application using Spring Boot.",
+        "Developed user interface using JSP, HTML, Java Script and jQuery to simplify the complexities of the application.",
+        "Developed CSS styles to maintain the uniformity of all the screens throughout the application and positioning of screen objects.",
+        "Used Collections extensively to store, retrieve and manipulate objects in the business logic layer.",
+        "Integrated with the back-end Restful API calls to make the application more dynamic and responsive with the best user experience.",
+        "Used Swagger API for REST web service development.",
+        "Extensively worked with Spring JDBC MySQL databases and developed SQL queries to process the data.",
+        "Used Log4j API for logging in development, testing and production environments, configured to send email notifications.",
+        "Worked in Agile (SCRUM) environment and attending daily SCRUM meetings.",
+        "Created and exposed Restful APIs using Spring REST and spring boot.",
+        "Used JIRA tool for Issue/bug tracking, monitoring of work assignment in the system.",
+        "Experience on implementation of version control software GIT repositories.",
+        "Worked with QA team and DevOps team for troubleshooting and resolving defects.",
+        "Experience in all phases of Software development Life Cycle (SDLC) including analysis design, development, Documentation, Testing, Deployment, Version control and production Support.",
+        "Hands on experience with developing web applications using java Spring boot."
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Buckeye Interactive",
+      "role": "Software Engineer",
+      "from": "May 2019",
+      "to": "March 2020",
+      "description": "Small business is the hero of modern capitalism. Owners of small firms are the virtuous strivers, the job creators and the plucky entrepreneurs who drive the economy. As a Software Engineer working for Buckeye Interactive, I was helping small businesses to amplify their impact in the digital world.",
+      "content": [
+        "Improved the website performance and traffic to the City of Powell by 40% by implementing modern designs.",
+        "Improved the Security of WordPress sites by building a monitoring tool to ping the on-call engineer about plugin updates on multiple sites.",
+        "Improved the productivity of the NJY camps web application by developing scripts to Sync camp photos on to google Drive.",
+        "Hands on experience with building Schema for DB using Spring boot, hibernate and data retrieval using Spring Data JPA.",
+        "Experience in unit testing the services using Junit and test-Driven Development (TDD)",
+        "Experience building docker applications and building pipelines for Continuous Integration.",
+        "Used SASS and LESS CSS pre-compilers for converting old-fashioned CSS.",
+        "Strong experience on working CSS3.",
+        "Experience developing and deployment of Laravel application using docker to have smooth transitioning into production.",
+        "Build projects following Agile methodologies.",
+        "Have working knowledge on using software versioning systems like GIT.",
+        "Collaborate with Clients to develop site-map guidelines and requirements to capture content, features, and functionality for application development efforts.",
+        "Supervised 3 interns."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kantar",
+      "role": "Java Developer",
+      "from": "September 2015",
+      "to": "April 2019",
+      "description": "Developed a web-application for Columbus Metro-library for researching and maintaining the history of the State of Ohio that will collect data from users like images, videos and audio files and store them in Amazon S3. Provided interface for the admins of the library to authorize and validate the data before Saving.",
+      "content": [
+        "Implemented Authentication for users using Spring Security and implemented validations of the forms using Spring Validator.",
+        "Took feedback directly from the Client and planned the next steps for the development phase with the project manager.",
+        "Developed Restful Services for CRUD operations using Spring and wrote test using Spring tests and Mocking frameworks like Mockito.",
+        "Developed logs for all the required class methods which will help in reducing the down time of the server and improve the efficiency of the support team to debug the crashes.",
+        "Efficiently implemented multi-threading using Java Concurrency utilities for performance improvements.",
+        "Conducted code reviews against coding standards and made sure the best practices are maintained in development process.",
+        "Coordinating with the testing team and fixing Bugs at various stages of the application development",
+        "Used Maven build tool for building the application.",
+        "Developing test requirements by decomposing the functional requirements and interacting with End-users, business analysts and developers.",
+        "Participated in meetings of internal developer groups for the purpose of development standards."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "I MARKS DIGITAL SOLUTIONS",
+      "role": "Java Developer",
+      "from": "October 2013",
+      "to": "September 2015",
+      "description": "Worked on developing a Java Spring boot web-application for Ohio State University to help them in researching and predicting the suitable jobs based on capabilities of disabled employees. The application provides interface for both employees and evaluators. Developed data visualizations and generated them using Chart.js to display the strengths and weaknesses of the workers abilities and generate reports.",
+      "content": [
+        "Implemented design patterns like Data Access Objects (DAO), Value Objects/Data Transfer Objects(DTO), and Singleton etc.",
+        "Developed Modules and services in Java and Node.js.",
+        "Performed in different phases of the Software Development Lifecycle (SDLC) of the application, including requirements gathering, analysis, design, development and deployment of the application.",
+        "Designed, developed, and maintained the data layer using Hibernate and Sequelize.",
+        "Followed Test-driven development methodologies and developed tests using Spring tests and Junit frameworks.",
+        "Used various Core Java concepts such as Multi-Threading, Exception Handling, Collection APIs to implement various features and enhancements.",
+        "Used Maven to compile java classes and package into jar archive. Wrote PL/SQL queries, stored procedures, and triggers to perform back-end database operations.",
+        "Responsible for maintaining, and administering Servlets, and JSP components to be deployed on a Web Sphere Application server.",
+        "Involved in tracking and resolving defects, which arise in QA & production."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Zensar Technologies",
+      "role": "Web Developer",
+      "from": "March 2012",
+      "to": "August 2013",
+      "description": "ATS is an active leader in the purchase, sale, and exchange of PT6A engines worldwide. I was involved in developing the Dashboard for maintaining the company’s leasing history, and orders. Developed an interface for the employees and the lease owners to keep track of the order, due dates, and payments.",
+      "content": [
+        "Developed the Dashboard for ATS using Backpack package.",
+        "Added alerts and emails to clients and customers to keep track of the orders and lease end dates.",
+        "Implemented the UI/UX designs which are accessible and responsive using SASS and Bootstrap",
+        "Modified the HTML DOM elements using vanilla JavaScript and modified DOM elements to improve the functionality of the application.",
+        "Used GIT for version control and GitHub for storing the repository in cloud.",
+        "Involved in code-reviews, refactoring and added comments for easy maintenance for future developers.",
+        "Improved website security and removed vulnerabilities by adding validations both client-side and server-side."
+      ]
+    }
+  ],
+  "contact": {
+    "phone": "(xxx) xxx-xxx",
+    "email": "x@x.com"
+  }
+}
