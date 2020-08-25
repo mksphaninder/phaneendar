@@ -7,6 +7,9 @@
   color: black;
   padding: 5px;
 }
+.socialMedia:hover {
+  background-color: #659dbd;
+}
 .socialMedia a {
   color: black;
   padding: 0 10px;

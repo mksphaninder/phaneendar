@@ -6,11 +6,11 @@ function About({ description }) {
     <div className="about">
       <Container>
         <Row>
-          <Col className="about__box">
-            <div className="d-flex justify-content-center about__title">
-              <h2>About</h2>
+          <Col className="about__box dark">
+            <div className="d-flex justify-content-center about__title ">
+              <h2 className="titillium-bold">ABOUT ME</h2>
             </div>
-            <div className="about__content">
+            <div className="about__content titillium-regular d-flex justify-content-center">
               <p>{description}</p>
             </div>
           </Col>

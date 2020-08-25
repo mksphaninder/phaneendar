@@ -7,7 +7,7 @@ function ProjectContent() {
   const { currentProject } = useContext(ProjectContext)
 
   return (
-    <div className="col-md-8 project__content">
+    <div className="col-md-8 project__content dark">
       <div className="project__content__details d-flex justify-content-between">
         <div className="project__content__details__role">
           <span>{currentProject.role}</span>
@@ -23,7 +23,7 @@ function ProjectContent() {
       <ul className="list-group list-group-flush">
         {currentProject.content &&
           currentProject.content.map(r => (
-            <li className="list-group-item">{r}</li>
+            <li className="list-group-item dark">{r}</li>
           ))}
       </ul>
     </div>

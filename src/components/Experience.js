@@ -8,9 +8,9 @@ function Experience({ projects }) {
     <div className="experience">
       <Container>
         <Row>
-          <Col>
-            <div className="experience__title d-flex justify-content-center">
-              <h2>Work Experience</h2>
+          <Col className="experience__title dark">
+            <div className="d-flex justify-content-center">
+              <h2 className="titillium-bold">Work Experience</h2>
             </div>
           </Col>
         </Row>

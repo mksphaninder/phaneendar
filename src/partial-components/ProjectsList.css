@@ -1,13 +1,11 @@
 .projects__list__item:hover {
-  background-color: black;
-  color: white;
+  background-color: #659dbd;
   transition: ease-in-out, background-color, transform 2s;
   cursor: pointer;
-  border: 1px solid white;
+  /* border: 1px solid white; */
 }
 
 .selected {
-  background-color: black;
+  background-color: #8d8741;
   color: white;
-  border: 1px solid white;
 }

@@ -2,14 +2,33 @@ import React from "react"
 import "./Intro.css"
 import { Container, Row, Col } from "react-bootstrap"
 import SocialMedia from "../partial-components/SocialMedia"
-function Intro({ name }) {
+function Intro({ name, roles }) {
   return (
     <div className="intro intro__hero-image">
       {/* Should contain a background image */}
       <Container className="intro__content">
+        {/* name should be small */}
+        {/* about me should be black and large font ex: software engineer */}
+        {/* border on the bottom */}
+        {/* and then there should be social media */}
         <Row>
-          <Col className="d-flex justify-content-center intro__content">
-            <h1>Hello I'm {name}, nice to meet you!</h1>
+          <Col className="d-flex justify-content-center">
+            <div className="intro__content__name ">
+              <span>{name}</span>
+            </div>
+          </Col>
+        </Row>
+        <Row>
+          <Col>
+            <div className="intro__content__roles d-flex justify-content-center">
+              <ul className="intro__content__roles__list">
+                {roles.map(role => (
+                  <li className="intro__content__roles__list__item titillium-black d-flex justify-content-center">
+                    {role.toUpperCase()}
+                  </li>
+                ))}
+              </ul>
+            </div>
           </Col>
         </Row>
         <Row>

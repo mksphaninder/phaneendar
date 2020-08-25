@@ -18,7 +18,7 @@ function ProjectsList({ projects }) {
                 className={
                   p.id === currentProject.id
                     ? `projects__list__item list-group-item selected`
-                    : `projects__list__item list-group-item`
+                    : `projects__list__item list-group-item dark`
                 }
                 key={p.id}
                 onClick={() => handleProjectItemClick(p)}

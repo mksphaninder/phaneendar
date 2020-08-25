@@ -3,5 +3,14 @@
 }
 
 body {
-  background-color: #f6f8fa;
+  background-color: #18191a;
+  color: #fff;
+}
+
+.container {
+  /* background-color: #fbeec1; */
+}
+
+.dark {
+  background-color: #242526;
 }
