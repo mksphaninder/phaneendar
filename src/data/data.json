@@ -105,5 +105,52 @@
   "contact": {
     "phone": "(614) 383-8184",
     "email": "phaneendarm@gmail.com"
+  },
+  "skills": {
+    "web Technologies": ["Restful", "Micro Services Architecture", "Ajax"],
+    "Java Frameworks": [
+      "Spring Boot",
+      "Hibernate",
+      "Java Persistence API",
+      "JDBC",
+      "JSP",
+      "JSTL",
+      "Spring AOP",
+      "JMS",
+      "Log4J"
+    ],
+    "CSS Frameworks": ["Bootstrap 4.5", "Material UI"],
+    "DataBases": [
+      "Oracle",
+      "PostgreSQL",
+      "PL/SQL",
+      "MySQL",
+      "MongoDB",
+      "Cassandra"
+    ],
+    "Testing Frameworks": ["JUnit", "Jasmine", "Selenium", "Karma", "Jest"],
+    "Operating Systems": [
+      "Windows",
+      "UNIX",
+      "Linux",
+      "Ubuntu",
+      "Fedora",
+      "Arch Linux",
+      "Mac OS"
+    ],
+    "Web Servers": [
+      "WebSphere",
+      "WebLogic",
+      "JBoss",
+      "Tomcat",
+      "Nginx",
+      "Node.js"
+    ],
+    "Build Automation": ["Ant", "Maven", "Gradle", "Jenkins"],
+    "Messaging Technologies": ["JMS", "Kafka", "RabbitMQ", "GCP PUB/SUB"],
+    "FrontEnd Frameworks": ["React.js", "Angular.js"],
+    "Mocking Frameworks": ["Mockito"],
+    "Cloud Technologies": ["AWS", "GCP"],
+    "CI/CD": ["Jenkins", "Azure DevOps", "Github Actions"]
   }
 }

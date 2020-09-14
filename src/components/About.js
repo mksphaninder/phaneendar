@@ -1,5 +1,6 @@
 import React from "react"
 import { Container, Row, Col } from "react-bootstrap"
+import Description from "../partial-components/Description"
 import "./About.css"
 function About({ description }) {
   return (

@@ -8,10 +8,14 @@ function Contact({ info }) {
     <div className="contact ">
       <div className="contact__info__details d-flex justify-content-between">
         <span className="phone">
-          <ContactPhoneIcon /> <span>{info.phone}</span>
+          <a href={`tel:${info.phone}`}>
+            <ContactPhoneIcon /> <span>{info.phone}</span>
+          </a>
         </span>
         <span className="email">
-          <EmailIcon /> <span>{info.email}</span>
+          <a href={`mailto:${info.email}`}>
+            <EmailIcon /> <span>{info.email}</span>
+          </a>
         </span>
       </div>
     </div>
