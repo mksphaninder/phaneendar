@@ -1,0 +1,12 @@
+.description {
+  text-align: center;
+}
+.description__title h2::before {
+  position: relative;
+  top: 25px;
+  left: 30px;
+  display: block;
+  width: 20%;
+  border-bottom: 5px solid white;
+  content: "";
+}

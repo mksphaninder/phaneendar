@@ -5,12 +5,7 @@ import SocialMedia from "../partial-components/SocialMedia"
 function Intro({ name, roles }) {
   return (
     <div className="intro intro__hero-image">
-      {/* Should contain a background image */}
       <Container className="intro__content">
-        {/* name should be small */}
-        {/* about me should be black and large font ex: software engineer */}
-        {/* border on the bottom */}
-        {/* and then there should be social media */}
         <Row>
           <Col className="d-flex justify-content-center">
             <div className="intro__content__name ">
@@ -34,7 +29,7 @@ function Intro({ name, roles }) {
         <Row>
           <Col md={{ size: 3 }} className="d-flex justify-content-center">
             <SocialMedia
-              linkedin={"https://www.linkedin.com/in/mksp45419/"}
+              linkedin={"https://www.linkedin.com/in/phaneendar-m/"}
               github={"https://github.com/mksphaninder"}
               phone={"tel:6143838184"}
               email={"mailto:phaneendarm@gmail.com"}
